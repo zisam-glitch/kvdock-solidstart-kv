@@ -1,0 +1,10 @@
+{
+  "name": "kvdock-solidstart-kv",
+  "version": "1.0.0",
+  "description": "SolidStart session and key-value persistence adapter using kvdock",
+  "type": "module",
+  "dependencies": {
+    "kvdock": "^0.3.1"
+  },
+  "license": "MIT"
+}
